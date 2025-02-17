@@ -2,7 +2,7 @@
 using System.Net;
 using System.Net.NetworkInformation;
 
-namespace CSaN;
+namespace Lab1;
 
 class Program
 {
